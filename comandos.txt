@@ -1,0 +1,15 @@
+"""
+comandos git:
+git add . 
+git commit -m "lo que sea "
+git psuh                   (Para empujar el codigo al repo Remoto)
+git pull                   (Para estirar los cambios del Remoto al Local)
+"""
+"""
+comandos para navegar en la Terminal
+"""
+"""
+ls o dir                       (Para ver los documentos existentes)
+cd nombre_de_archivo            (Para ver los archivos existentes)
+cd  ..                         (Para salir del archivo )
+
